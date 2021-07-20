@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>les listes</title>
+</head>
+<body>
+<ul>
+				<li>élément de listes 1</li>
+				<li>élément de listes 2</li>
+				<li>élément de listes 3</li>
+				<li>élément de listes 4</li>
+				<li>élément de listes 5</li>
+				<li>élément de listes 6</li>
+				<li>élément de listes 7</li>
+				<li>élément de listes 8</li>
+				<li>élément de listes 9</li>
+				<li>élément de listes 10</li>
+			</ul>
+	
+</body>
+</html>
